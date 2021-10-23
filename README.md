@@ -195,8 +195,6 @@ Aqui você vai encontrar os detalhes do projeto [DELICIOUSEAT](https://delicious
   - [87 - Redirecione a pessoa usuária que, ao clicar no botão de "Sair", o `localStorage` deve ser limpo e a rota deve mudar para a tela de login](#87---redirecione-a-pessoa-usuária-que-ao-clicar-no-botão-de-sair-o-localstorage-deve-ser-limpo-e-a-rota-deve-mudar-para-a-tela-de-login)
   </details>
 
-- [Avisos finais](#avisos-finais)
-
 ---
 
 # Tecnologias
